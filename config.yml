@@ -1,0 +1,13 @@
+clover:
+  db: cloverdata
+  host: 0.0.0.0
+  port: 3306
+  user: root
+  passwd: root
+
+clovertest:
+  db: TEST
+  host: 0.0.0.0
+  port: 3306
+  user: root
+  passwd: root
