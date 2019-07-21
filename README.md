@@ -15,6 +15,6 @@ How to run
 ```python main.py --filename testformatter1```
 from the project root  
 
-How to run test
-```pytest test/```
+How to run test  
+```pytest test/```  
 from the project root
