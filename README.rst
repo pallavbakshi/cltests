@@ -12,11 +12,9 @@ Pip requirements
 
 
 How to run  
-```bash
-python main.py --filename testformatter1```  
+`python main.py --filename testformatter1`
 from the project root  
 
 How to run test
-```bash
-pytest test/```
+`pytest test/`
 from the project root
