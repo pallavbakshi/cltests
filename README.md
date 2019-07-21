@@ -10,7 +10,7 @@ Pip requirements
 
 
 You have to run following commands in mysql terminal  
-```CREATE DATABASE cloverdata```
+```CREATE DATABASE cloverdata```  
 ```CREATE DATABASE TEST```
 
 How to run  
