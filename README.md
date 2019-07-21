@@ -5,11 +5,13 @@ Python: 3.6.7
 
 Requirements:  
 Docker/ Mysql port 3306 host 0.0.0.0  
-
 You may check the config file  
-
 Pip requirements  
 
+
+You have to run following commands in mysql terminal  
+```CREATE DATABASE cloverdata```
+```CREATE DATABASE TEST```
 
 How to run  
 ```python main.py --filename testformatter1```
